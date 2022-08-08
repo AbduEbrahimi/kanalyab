@@ -10,6 +10,8 @@ Install & update : Visit the site to get the program
   #
 ```
     
+![alt text](https://raw.githubusercontent.com/AbduEbrahimi/kanalyab/main/screen.jpg)
+
 
 ## version
 
