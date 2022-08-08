@@ -7,7 +7,7 @@ Free software with the ability to update online and offline the latest frequenci
 Install & update : Visit the site to get the program
 
 ```bash
-  #
+  #### coming soon
 ```
     
 ![alt text](https://raw.githubusercontent.com/AbduEbrahimi/kanalyab/main/screen.jpg)
