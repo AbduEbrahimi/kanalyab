@@ -4,7 +4,7 @@ Free software with the ability to update online and offline the latest frequenci
 
 ## Installation
 
-Install : Visit the site to get the program
+Install & update : Visit the site to get the program
 
 ```bash
   #
