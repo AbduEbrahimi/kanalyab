@@ -15,7 +15,7 @@ Install & update : Visit the site to get the program
 
 ## version
 
-### data: "data2022-08-07"
+### data: "data-Aug-2022"
 #### Features
 - Including satellites
   Hotbird
