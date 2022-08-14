@@ -26,7 +26,7 @@ Install & update : Visit the site to get the program
 - Includes channel names with frequency
 - Etc
 
-### app: "0.96.42"
+### app: "1.0.71a"
 #### Features
 - Receive information about frequencies and channels online
 - Ability to display frequencies offline
