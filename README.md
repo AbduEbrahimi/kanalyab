@@ -15,7 +15,7 @@ Install & update : Visit the site to get the program
 
 ## version
 
-### data: "data-Aug-2022"
+### data: "data_25_Aug_22"
 #### Features
 - Including satellites
   Hotbird
@@ -23,6 +23,8 @@ Install & update : Visit the site to get the program
   Arabsat
   Nilesat
   Turksat
+  Eutelsat 70b
+  Eutelsat 16
 - Includes channel names with frequency
 - Etc
 
