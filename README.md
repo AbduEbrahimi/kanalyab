@@ -10,6 +10,9 @@ Free software with the ability to update online and offline the latest frequenci
     
 ![alt text](https://raw.githubusercontent.com/AbduEbrahimi/kanalyab/main/screen.jpg)
 
+How to retrieve data :
+
+Click the Offline button and select the file
 
 ## version
 
