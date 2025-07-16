@@ -4,11 +4,9 @@ Free software with the ability to update online and offline the latest frequenci
 
 ## Installation
 
-Install & update : Visit the site to get the program
+[download release archive from Github](https://github.com/AbduEbrahimi/kanalyab/releases)
 
-```bash
- https://www.sat4satsatellite.me/showthread.php?t=70558
-```
+
     
 ![alt text](https://raw.githubusercontent.com/AbduEbrahimi/kanalyab/main/screen.jpg)
 
